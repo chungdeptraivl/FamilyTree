@@ -23,10 +23,7 @@
       ) {
         window.location.href="/"
       }
-    } else {
-      // Chuyển hướng về trang /account/dang_nhap nếu không có accessToken
-      window.location.href="/account/xac_nhan_otp"
-    }
+    } 
   },
    
    }
